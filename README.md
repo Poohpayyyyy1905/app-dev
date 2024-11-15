@@ -5,7 +5,7 @@ My First Ever Repository
 | Hello Eberiwan | These are my fave Movies|
 | I am fond of watching mostly horror movies, especially the gore ones and the ghost or evil ones | Genre: Horror|
 
-#HORROR Movies ***bold text**
+****Horror Movies***
 
 1. The Grudge
 ![image](https://github.com/user-attachments/assets/e2774fe5-58fc-40cf-af80-24fcb4ffe162)
