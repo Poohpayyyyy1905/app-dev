@@ -22,5 +22,6 @@ My First Ever Repository
 ![image](https://github.com/user-attachments/assets/d35f212e-5675-4ee9-b1d0-498123c40ef8)
 
 5.HellBoy
-![image](https://github.com/user-attachments/assets/f55941e9-5ae1-49e7-b6c6-a4de983382d5)
+
+![image](https://github.com/user-attachments/assets/1ec6af6d-e37a-490d-8e68-9d174653459e)
 
