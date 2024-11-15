@@ -21,7 +21,7 @@ My First Ever Repository
 
 ![image](https://github.com/user-attachments/assets/d35f212e-5675-4ee9-b1d0-498123c40ef8)
 
-5.HellBoy
+5.Paranormal Activity
 
 ![image](https://github.com/user-attachments/assets/1ec6af6d-e37a-490d-8e68-9d174653459e)
 
