@@ -1,6 +1,6 @@
 # app-dev
 My First Ever Repository
-	| Syntax | Description |
+	| Poohpay | Fave Movies hehe|
 | ----------- | ----------- |
 | Hello Eberiwan | These are my fave Movies|
 | I am fond of watching mostly horror movies, especially the gore ones and the ghost or evil ones | Genre: Horror|
