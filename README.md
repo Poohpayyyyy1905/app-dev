@@ -8,8 +8,7 @@ My First Ever Repository
 #HORROR Movies ***bold text**
 
 1. The Grudge
-![alt text](![image](https://github.com/user-attachments/assets/3e879def-a454-48f3-adb2-9ab426827324)
-)
+![image](https://github.com/user-attachments/assets/e2774fe5-58fc-40cf-af80-24fcb4ffe162)
 
 
 2.JAWS
